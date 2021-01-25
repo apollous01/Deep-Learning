@@ -1,2 +1,1 @@
-Second branch changes
-
+Master branch changes
